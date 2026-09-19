@@ -4,11 +4,9 @@
 
 <br />
 
-# Hi, I'm Sukritta 🌙
+# Full-stack developer with an artistic side 🌙
 
-### Full-stack developer with an artistic side
-
-*I enjoy turning ideas into thoughtful digital experiences — one pixel, one component, and one cup of tea at a time.*
+*I enjoy turning ideas into thoughtful digital experiences - one component and one cup of tea at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/let's_connect-856088?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukitta-budsaba)
 
@@ -22,7 +20,7 @@
 🌱  Learning       Cloud · Authentication · Full-stack architecture
 🎨  Creating       Useful interfaces with thoughtful little details
 📚  Off-screen     Reading · Painting · Crocheting
-🐾  Studio mates   Cats & dogs
+🐾  Studio mates   My Cat & dog
 ```
 
 I’m growing into a well-rounded full-stack developer who cares about both how things **work** and how they **feel**. I like clean systems, warm visuals, and making technology a little more human.
@@ -80,6 +78,8 @@ I’m growing into a well-rounded full-stack developer who cares about both how 
 
 *Thanks for visiting my little corner of GitHub* ✦
 
-<sub>Built with code, curiosity, and a soft spot for smoke purple.</sub>
+</br>
+
+
 
 </div>
