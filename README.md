@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cozy-pixel-banner.gif" width="100%" alt="A minimal purple pixel-art developer studio typing Hi, My name is Jip" />
+<img src="./assets/banner.gif" width="100%" alt="A minimal purple pixel-art developer studio typing Hi, My name is Jip" />
 
 <br />
 
