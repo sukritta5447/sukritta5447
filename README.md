@@ -9,6 +9,8 @@
 *I enjoy turning ideas into thoughtful digital experiences - one component and one cup of tea at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/let's_connect-856088?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukitta-budsaba)
+</br>
+[![Instagram](https://img.shields.io/badge/My_Art-856088?style=for-the-badge&logoColor=white)](https://www.instagram.com/jamiejip_/)
 
 </div>
 
