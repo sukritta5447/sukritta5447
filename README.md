@@ -1,15 +1,85 @@
-# 💫 About Me:
-🔭 I’m currently working on becoming a full-stack developer<br>🌱 I’m currently learning Cloud and Authentication
+<div align="center">
 
+<img src="./assets/cozy-pixel-banner.gif" width="100%" alt="A minimal purple pixel-art developer studio typing Hi, My name is Jip" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukitta-budsaba) 
+<br />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sukritta5447&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sukritta5447&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sukritta5447&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hi, I'm Sukritta 🌙
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Full-stack developer with an artistic side
+
+*I enjoy turning ideas into thoughtful digital experiences — one pixel, one component, and one cup of tea at a time.*
+
+[![LinkedIn](https://img.shields.io/badge/let's_connect-856088?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukitta-budsaba)
+
+</div>
+
+---
+
+### ✦ A little about me
+
+```text
+🌱  Learning       Cloud · Authentication · Full-stack architecture
+🎨  Creating       Useful interfaces with thoughtful little details
+📚  Off-screen     Reading · Painting · Crocheting
+🐾  Studio mates   Cats & dogs
+```
+
+I’m growing into a well-rounded full-stack developer who cares about both how things **work** and how they **feel**. I like clean systems, warm visuals, and making technology a little more human.
+
+### ✦ My toolkit
+
+<div align="center">
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-856088?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B284BE?style=flat-square&logo=javascript&logoColor=1A1423)
+![React](https://img.shields.io/badge/React-C8A2C8?style=flat-square&logo=react&logoColor=1A1423)
+![Next.js](https://img.shields.io/badge/Next.js-382C3A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-856088?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B284BE?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C8A2C8?style=flat-square&logo=css3&logoColor=1A1423)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-856088?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-B284BE?style=flat-square&logo=nestjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-C8A2C8?style=flat-square&logo=supabase&logoColor=1A1423)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-382C3A?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-856088?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-B284BE?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Creative**
+
+![AWS](https://img.shields.io/badge/AWS-382C3A?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-856088?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B284BE?style=flat-square&logo=git&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-C8A2C8?style=flat-square&logo=vitest&logoColor=1A1423)
+![Figma](https://img.shields.io/badge/Figma-382C3A?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-856088?style=flat-square&logo=canva&logoColor=white)
+
+</div>
+
+### ✦ GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=sukritta5447&show_icons=true&hide_border=true&bg_color=151019&title_color=C8A2C8&text_color=E8DDE9&icon_color=B284BE" alt="Sukritta's GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sukritta5447&layout=compact&hide_border=true&bg_color=151019&title_color=C8A2C8&text_color=E8DDE9" alt="Sukritta's most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=sukritta5447&hide_border=true&background=151019&ring=B284BE&fire=C8A2C8&currStreakLabel=C8A2C8&sideLabels=E8DDE9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9C899E" alt="Sukritta's contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting my little corner of GitHub* ✦
+
+<sub>Built with code, curiosity, and a soft spot for smoke purple.</sub>
+
+</div>
