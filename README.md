@@ -61,6 +61,11 @@ I’m growing into a well-rounded full-stack developer who cares about both how 
 
 </div>
 
+### ✦ What I'm learning
+<div align="center">
+
+</div>
+
 ### ✦ GitHub at a glance
 
 <div align="center">
