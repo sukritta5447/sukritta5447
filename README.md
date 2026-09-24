@@ -73,8 +73,8 @@ I’m growing into a well-rounded full-stack developer who cares about both how 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=sukritta5447&show_icons=true&hide_border=true&bg_color=151019&title_color=C8A2C8&text_color=E8DDE9&icon_color=B284BE" alt="Sukritta's GitHub stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sukritta5447&layout=compact&hide_border=true&bg_color=151019&title_color=C8A2C8&text_color=E8DDE9" alt="Sukritta's most used languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukritta5447&theme=2077" alt="Sukritta's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukritta5447&theme=2077" alt="Sukritta's most used languages" />
 
 <br />
 
