@@ -63,7 +63,10 @@ I’m growing into a well-rounded full-stack developer who cares about both how 
 
 ### ✦ What I'm learning
 <div align="center">
-
+  <img src="./assets/icons/go.svg" height="40" alt="Go language" />
+  <img src="./assets/icons/net.svg" height="40" alt=".Net" />
+  <img src="./assets/icons/docker.svg" height="40" alt="Docker" />
+  <img src="./assets/icons/python.svg" height="40" alt="Python" />
 </div>
 
 ### ✦ GitHub at a glance
